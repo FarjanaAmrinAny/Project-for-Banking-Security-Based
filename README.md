@@ -18,3 +18,7 @@ ML Model stats — Precision, Recall, F1, and latency metrics
 
 Risk Classification:
 Each transaction is scored 0–99 by a simulated ML engine and labeled HIGH / MED / LOW with color-coded badges and status (APPROVED / FLAGGED / BLOCKED / REVIEW
+
+
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/3d532df7-460a-47b7-8196-16f9e64be7bf" />
+
